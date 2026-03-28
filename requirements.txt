@@ -1,0 +1,11 @@
+# ---------------------------------------------------------
+# Project Aether-Link: Environment Requirements
+# ---------------------------------------------------------
+
+# The core simulation scripts are designed to be lightweight 
+# and utilize Python's Built-in Standard Library (math, time).
+# No external pip packages are strictly required to run Phases 1-5.
+
+# --- Future GUI / Visualization Dependencies (Optional) ---
+# numpy>=1.21.0
+# matplotlib>=3.4.3
