@@ -39,4 +39,4 @@ I kept the code straightforward and modular so it’s easy for other engineers t
 2. Clone this repository.
 3. Run the primary analysis script: 
    ```bash
-   python scripts/link_budget_calculator.py
+   python link_budget_calculator.py
