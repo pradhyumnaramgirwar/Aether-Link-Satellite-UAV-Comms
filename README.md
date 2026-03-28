@@ -40,3 +40,4 @@ I kept the code straightforward and modular so it’s easy for other engineers t
 3. Run the primary analysis script: 
    ```bash
    python link_budget_calculator.py
+   python flight_simulation.py
