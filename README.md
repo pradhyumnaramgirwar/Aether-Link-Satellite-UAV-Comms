@@ -24,20 +24,21 @@ I've modeled the system using the following engineering parameters:
 
 ---
 
-### **Current Progress: 40% Complete**
+### Current Progress: 100% Complete
 - [x] Phase 1: System Definition & LEO Parameters.
 - [x] Phase 2: Core Link Budget Mathematics.
 - [x] Phase 3: Atmospheric & Weather Fade Modeling.
-- [x] Phase 4: Dynamic Flight Simulation (In Progress).
+- [x] Phase 4: Dynamic Flight Simulation.
 - [x] Phase 5: Autonomous Fail-safe Logic.
 
 ---
 
-### **How to Use It**
-I kept the code straightforward and modular so it’s easy for other engineers to verify. 
+### How to Use It
+I kept the code straightforward and modular so it’s easy for other engineers to verify.
 1. Ensure you have **Python 3.x** installed.
 2. Clone this repository.
-3. Run the primary analysis script: 
+3. Run the scripts in the following order to see the full simulation:
    ```bash
    python link_budget_calculator.py
    python flight_simulation.py
+   python emergency_protocol.py
