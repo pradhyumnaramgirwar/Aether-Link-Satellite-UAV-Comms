@@ -28,8 +28,8 @@ I've modeled the system using the following engineering parameters:
 - [x] Phase 1: System Definition & LEO Parameters.
 - [x] Phase 2: Core Link Budget Mathematics.
 - [x] Phase 3: Atmospheric & Weather Fade Modeling.
-- [ ] Phase 4: Dynamic Flight Simulation (In Progress).
-- [ ] Phase 5: Autonomous Fail-safe Logic.
+- [x] Phase 4: Dynamic Flight Simulation (In Progress).
+- [x] Phase 5: Autonomous Fail-safe Logic.
 
 ---
 
